@@ -1,0 +1,13 @@
+{
+
+  "require":{
+      "noahbuscher/macaw": "dev-master",
+      "monolog/monolog": "~1.13.0",
+      "phpmailer/phpmailer": "5.2.*",
+      "illuminate/database": "*",
+      "nette/mail":"*",
+      "doctrine/orm":"*",
+      "pda/pheanstalk":"*"
+      }
+
+      }
