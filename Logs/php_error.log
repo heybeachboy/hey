@@ -1,0 +1,19 @@
+[19-Nov-2015 14:42:04 Asia/Chongqing] PHP Fatal error:  Function name must be a string in /home/wwwroot/hello/Public/index.php on line 67
+[19-Nov-2015 14:42:06 Asia/Chongqing] PHP Fatal error:  Function name must be a string in /home/wwwroot/hello/Public/index.php on line 67
+[19-Nov-2015 14:42:07 Asia/Chongqing] PHP Fatal error:  Function name must be a string in /home/wwwroot/hello/Public/index.php on line 67
+[19-Nov-2015 14:42:07 Asia/Chongqing] PHP Fatal error:  Function name must be a string in /home/wwwroot/hello/Public/index.php on line 67
+[19-Nov-2015 14:42:08 Asia/Chongqing] PHP Fatal error:  Function name must be a string in /home/wwwroot/hello/Public/index.php on line 67
+[19-Nov-2015 14:42:09 Asia/Chongqing] PHP Fatal error:  Function name must be a string in /home/wwwroot/hello/Public/index.php on line 67
+[19-Nov-2015 14:48:11 Asia/Chongqing] PHP Fatal error:  Call to private method Hello\World\Service\Log::process() from context '' in /home/wwwroot/hello/Public/index.php on line 49
+[19-Nov-2015 18:15:40 Asia/Chongqing] PHP Notice:  Use of undefined constant Mail - assumed 'Mail' in /home/wwwroot/hello/Library/Container/Box.php on line 51
+[19-Nov-2015 18:15:40 Asia/Chongqing] PHP Notice:  Use of undefined constant Mail - assumed 'Mail' in /home/wwwroot/hello/Library/Container/Box.php on line 51
+[19-Nov-2015 18:15:40 Asia/Chongqing] PHP Fatal error:  Class 'Mail' not found in /home/wwwroot/hello/Library/Container/Box.php on line 19
+[19-Nov-2015 18:19:44 Asia/Chongqing] PHP Notice:  Use of undefined constant Mail - assumed 'Mail' in /home/wwwroot/hello/Library/Container/Box.php on line 51
+[19-Nov-2015 18:19:44 Asia/Chongqing] PHP Notice:  Use of undefined constant Mail - assumed 'Mail' in /home/wwwroot/hello/Library/Container/Box.php on line 51
+[19-Nov-2015 18:19:44 Asia/Chongqing] PHP Fatal error:  Class 'Mail' not found in /home/wwwroot/hello/Library/Container/Box.php on line 19
+[19-Nov-2015 18:19:44 Asia/Chongqing] PHP Notice:  Use of undefined constant Mail - assumed 'Mail' in /home/wwwroot/hello/Library/Container/Box.php on line 51
+[19-Nov-2015 18:19:44 Asia/Chongqing] PHP Notice:  Use of undefined constant Mail - assumed 'Mail' in /home/wwwroot/hello/Library/Container/Box.php on line 51
+[19-Nov-2015 18:19:44 Asia/Chongqing] PHP Fatal error:  Class 'Mail' not found in /home/wwwroot/hello/Library/Container/Box.php on line 19
+[19-Nov-2015 18:19:45 Asia/Chongqing] PHP Notice:  Use of undefined constant Mail - assumed 'Mail' in /home/wwwroot/hello/Library/Container/Box.php on line 51
+[19-Nov-2015 18:19:45 Asia/Chongqing] PHP Notice:  Use of undefined constant Mail - assumed 'Mail' in /home/wwwroot/hello/Library/Container/Box.php on line 51
+[19-Nov-2015 18:19:45 Asia/Chongqing] PHP Fatal error:  Class 'Mail' not found in /home/wwwroot/hello/Library/Container/Box.php on line 19
